@@ -1,1 +1,4 @@
-# aviutl専用exo生成ツール
+# aviutl用exo生成ツール
+  * ## ダウンロードしてすぐ使える!!(実行中に自動ダウンロード有)
+  * ### 無音部分カット、無駄声部分カット、自動字幕が利用できます。
+# [ダウンロード先](https://github.com/legisters-game/exo_creater/releases/tag/exotool)
