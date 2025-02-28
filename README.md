@@ -1,1 +1,1 @@
-# exo_creater
+# aviutl専用exo生成ツール
