@@ -3,4 +3,3 @@
   * ### 無音部分カット、無駄声部分カット、自動字幕が利用できます。
 # [ダウンロード先](https://github.com/legisters-game/exo_creater/releases/tag/exotool)
 # [ダウンロード先(rtx7000シリーズ)](https://github.com/legisters-game/exo_creater/releases/tag/exotool_7000)
-# [ダウンロード先(GPUなし：臨時)](https://github.com/legisters-game/exo_creater/releases/tag/notGPU)
